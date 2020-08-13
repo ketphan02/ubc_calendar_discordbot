@@ -14,7 +14,7 @@ client = discord.Client()
 @client.event
 async def on_ready():
     print(f'{client.user} has connected to Discord!')
-    # crawl_visualize.pre_pre_prework()
+    # crawl_visualize.start()
     print("Finished crawling data")
 
 @client.event
@@ -70,3 +70,13 @@ async def on_message(message):
 
 
 client.run(TOKEN)
+
+
+"""
+UPLOAD
+
+git add .
+git commit -m "update"
+git push origin master
+
+"""

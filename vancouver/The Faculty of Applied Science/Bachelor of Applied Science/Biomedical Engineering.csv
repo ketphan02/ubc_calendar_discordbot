@@ -1,0 +1,74 @@
+INFO,CREDIT
+First Year,Second Year
+Third Year,Fourth Year
+APSC 100,3
+APSC 160,3
+BMEG 1011,3
+BMEG 1021,2
+CHEM 121,4
+CHEM 123,4
+ENGL 112,3
+MATH 100,3
+MATH 101,3
+MATH 152,3
+PHYS 157,3
+PHYS 158,3
+PHYS 170,3
+Total Credits,40
+BMEG 201,3
+BMEG 210,3
+BMEG 220,4
+BMEG 230,4
+BMEG 245,4
+BMEG 250,4
+BMEG 257,4
+CHBE 251,3
+CPEN 2212 or CPEN 223,4
+MATH 253 or 226,3
+MATH 256,3
+MATH 264,1
+Total Credits,40
+BIOC 202,3
+BMEG 310,4
+BMEG 350,4
+BMEG 357,3
+BMEG 371,3
+CHEM 233,3
+CHEM 235,1
+ELEC 371,3
+STAT 251,3
+Stream-based Courses,9
+Complementary Studies Electives2,3
+Total Credits,39
+BMEG 430,3
+BMEG 457,6
+BMEG 456,3
+STAT 300,3
+Stream-based Courses,18
+Complementary Studies Electives2,6
+Total Credits,39
+"1 Students who come into Biomedical Engineering without taking BMEG 101 and BMEG 102 must take all of APSC 101, PHYS 159 (or equivalent) and BMEG 200.",
+2 Students planning to complete the Bioinformatics option should take CPEN 221.,
+3 See Complementary Studies Courses. Students planning to apply to Medical School should take a first year English course as their complementary studies elective.  Students should confirm the specific pre-requisite courses for the Medical School(s) to which they will apply.,BIOC 302
+Students completing the Cellular Bioengineering Stream must complete the following:,BMEG 370
+3,CHBE 381
+3,Additional technical electives3
+3,
+18,BIOC 302
+Students completing the Biomedical Informatics Stream must complete the following:,CPSC 221
+3,CPSC 340
+4,Either MATH 220
+3,Or CPSC 121
+3,Additional technical electives3
+4,
+13 (if taking CPSC 121)14 (if taking MATH 220),BMEG 320
+Students completing the Biomedical Systems and Signals Stream must complete the following:,ELEC 221
+3,Additional technical electives3
+4,
+20,APSC 278
+Students completing the Biomaterials Biomechanics Stream must complete the following:,BMEG 330
+3,MECH 260
+3,Additional technical electives3
+3,
+18,
+3 To be chosen from a course list available on the program website and in consultation with an undergraduate advisor.,

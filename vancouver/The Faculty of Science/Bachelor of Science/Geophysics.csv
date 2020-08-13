@@ -1,0 +1,98 @@
+INFO,CREDIT
+First Year,Second Year
+Third and Fourth Years,Communication Requirement1
+6,CHEM 121 (or 111)2
+4,CHEM 123 (or 113)
+4,MATH 100 or 102 or 104 (or 120 or 180 or 184)3
+3,MATH 101 or 103 or 105 (or 121)3
+3,PHYS 107 (or 117) (or 101)4
+3,"PHYS 108, 109 (or 118, 119) (or 102)4"
+4,"Electives5,6"
+3,Total Credits
+30,"EOSC 212  or (EOSC 111 and one of EOSC 110, 112, 114, 116, 118)6"
+3,"EOSC 211, 222, 250"
+9,"MATH 200, 215, 221"
+9,PHYS 2037
+4,"Electives5,6"
+5,Total Credits
+30,"EOSC 352, 353, 354"
+9,"EOSC 4108, 450, 453"
+9,MATH 316 (or PHYS 312)
+3,MATH 3179
+3,PHYS 3017
+3,"Electives5,6,8"
+33,Total Credits
+60,Minimum Credits for Degree
+120,1 For a full list of acceptable courses see Communication Requirement. ENGL 112 is recommended.
+2 Students who do not have B.C. High School Chemistry 12 (or its equivalent) must write the UBC Chemistry Basic Skills Test and may be required to take CHEM 100.,
+"3 MATH 110 may substitute for the specified differential calculus courses listed by decreasing the electives by 3 credits. For each 4 credit MATH 100-level course chosen, electives credits must be decreased by 1.",
+4 Students without Physics 12 must take PHYS 100 before any other PHYS 100-level course. PHYS 100 will count as an elective. Qualified students are encouraged to take PHYS 107/108/109 or PHYS 117/118/119. Students who chose PHYS 102 must increase electives credits by 1.,5 Students who find the specific number of electives within a given year awkward to fulfill are permitted to move elective credit between years.
+6 Elective credits together with required courses must fulfill the Faculty of Science’s: a) Foundational Requirement; b) Laboratory Science Requirement; c) Science Breadth Requirement;  d) Science and Arts Requirements;  e) Upper-level Requirement;  f) General Degree Requirements.,
+"7 Two 300-level or higher courses in thermodynamics, electromagnetism, or mechanics (solid or fluid), offered by the Faculty of Science or the Faculty of Applied Science, may satisfy these course requirements. See the geophysics undergraduate advisor for course approval.",
+"8 Students are recommended to check the prerequisites for EOSC 410, and aim to satisfy these in third year.",
+"9 A course in numerical analysis at the third-year level or higher, and offered by the Faculty of Science or the Faculty of Applied Science, will also satisfy this requirement. See the geophysics undergraduate advisor for course approval.",Second Year
+First Year,Communication Requirement2
+Third and Fourth Years,CHEM 121 (or 111)3
+6,CHEM 123 (or 113)
+4,MATH 100 or 102 or 104 (or 120 or 180 or 184)4
+4,MATH 101 or 103 or 105 (or 121)4
+3,PHYS 107 (or 117) (or 101)5
+3,"PHYS 108, 109 (or 118, 119) (or 102)5"
+3,"Electives6,7"
+4,Total Credits
+6,"EOSC 212 (or EOSC 111 and one of EOSC 110, 112, 114, 116, 118)6"
+33,"EOSC 211, 222, 250"
+3,"MATH 200, 215"
+9,MATH 223 (or 221)
+6,PHYS 2038
+3,"Electives6,7"
+4,Total Credits
+8,"EOSC 352, 353, 354"
+33,"EOSC 4109, 450, 453"
+9,EOSC 449
+9,MATH 316 (or PHYS 312)
+6,MATH 31710
+3,PHYS 3018
+3,"Electives6,7,9"
+3,Total Credits
+33,Minimum Credits for Degree
+66,1 Students transferring from the Faculty of Applied Science should contact the geophysics undergraduate advisor for appropriate counting of Faculty of Applied Science course credit toward the GEOP degree.
+132,3 Students who do not have B.C. High School Chemistry 12 (or its equivalent) must write the UBC Chemistry Basic Skills Test and may be required to take CHEM 100.
+2 For a full list of acceptable courses see Communication Requirement.,
+"4 MATH 110 may substitute for the specified differential calculus courses listed by decreasing the electives by 3 credits. For each 4 credit MATH 100-level course chosen, electives credits must be decreased by 1.",6 Students who find the specific number of electives within a given year awkward to fulfill are permitted to move elective credit between years.
+5 Students without Physics 12 must take PHYS 100 before any other PHYS 100-level course. PHYS 100 will count as an elective. Qualified students are encouraged to take PHYS 107/108/109 or PHYS 117/118/119. Students who chose PHYS 102 must increase elective credits by 1.,
+7 Elective credits together with required courses must fulfill the Faculty of Science’s: a) Foundational Requirement; b) Laboratory Science Requirement; c) Science Breadth Requirement;  d) Science and Arts Requirements;  e) Upper-level Requirement;  f) General Degree Requirements.,"9 Students are recommended to check the prerequisites for EOSC 410, and aim to satisfy these in third year."
+"8 Two 300-level or higher courses in thermodynamics, electromagnetism, or mechanics (solid or fluid), offered by the Faculty of Science or the Faculty of Applied Science, may satisfy these course requirements. See the geophysics undergraduate advisor for course approval.","10 A course in numerical analysis at the third-year level or higher, and offered by the Faculty of Science or the Faculty of Applied Science, will also satisfy this requirement. See the geophysics undergraduate advisor for course approval."
+,Second Year
+First Year,Communication Requirement2
+Third and Fourth Years,CHEM 121 (or 111)3
+6,CHEM 123 (or 113)
+4,MATH 100 or 102 or 104 (or 120 or 180 or 184)4
+4,MATH 101 or 103 or 105 (or 121)4
+3,PHYS 107 (or 117) (or 101)5
+3,"PHYS 108, 109 (or 118, 119) (or 102)5"
+3,"Electives6,7"
+4,Total Credits
+6,"EOSC 211, 222, 250"
+33,"EOSC 212 (or EOSC 111 and one of EOSC 110, 112, 114, 116, 118)6"
+9,"MATH 200, 215"
+3,MATH 221 (or 223)
+6,"Electives6,7"
+3,Total Credits
+12,"EOSC 352, 353, 354"
+33,"EOSC 4108, 450, 453"
+9,MATH 316 or PHYS 312
+9,MATH 3179
+3,PHYS 30110
+3,EOSC 449 (or thesis in other discipline)
+3,"Electives5,8"
+6,Total Credits
+33,Minimum Credits for Degree
+66,"1 Combined honours must be approved by advisors from both disciplines at the time that the specialization is declared. Not all disciplines offer combined honours. For examples of Combined Honours Geophysics specializations, see a Geophysics advisor."
+132,3 Students who do not have B.C. High School Chemistry 12 (or its equivalent) must write the UBC Chemistry Basic Skills Test and may be required to take CHEM 100.
+2 For a full list of acceptable courses see Communication Requirement.,
+"4 MATH 110 may substitute for the specified differential calculus courses listed by decreasing the electives by 3 credits. For each 4 credit MATH 100-level course chosen, electives credits must be decreased by 1.",6 Within the specified electives all students must meet the requirements of the other specialization. The available elective credit in each year may be adjusted to allow for alternative courses and specific specialization combinations.
+5 Students without Physics 12 must take PHYS 100 before any other PHYS 100-level course. PHYS 100 will count as an elective. Qualified students are encouraged to take PHYS 107/108/109 or PHYS 117/118/119. Students who chose PHYS 102 must increase elective credits by 1.,7 Elective credits together with required courses must fulfill the Faculty of Science’s: a) Foundational Requirement; b) Laboratory Science Requirement; c) Science Breadth Requirement;  d) Science and Arts Requirements;  e) Upper-level Requirement;  f) General Degree Requirements.
+,
+"8 Students are recommended to check the prerequisites for EOSC 410, and aim to satisfy these in third year.","10 A 300-level or higher course in thermodynamics, electromagnetism, or mechanics (solid or fluid), offered by the Faculty of Science or the Faculty of Applied Science, may satisfy this requirement. See the geophysics undergraduate advisor for course approval."
+"9 A course in numerical analysis at the third-year level or higher, and offered by the Faculty of Science or the Faculty of Applied Science, will also satisfy this requirement. See the geophysics undergraduate advisor for course approval.",

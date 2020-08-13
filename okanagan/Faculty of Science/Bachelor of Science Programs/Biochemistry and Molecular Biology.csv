@@ -1,0 +1,44 @@
+INFO,CREDIT
+First and Second Years,Credits
+"BIOL 116, 125",6
+CHEM 111 or CHEM 121; and CHEM 113 or CHEM 123,6
+"MATH 100, 101",6
+PHYS 111 or 112,3
+"PHYS 102, 121 or 122",3
+"ENGL 109, or two of ENGL 112, 113, 114, 150, 151, 153, 154, 155, or 156",6
+BIOL 200,3
+BIOL 228,3
+BIOL 265,3
+"CHEM 203, 204",6
+CHEM 201,3
+Arts electives,6
+Biochemistry Option,
+MATH 200,3
+"One of CHEM 211, BIOL 202, STAT 230",3
+Medical and Molecular Biology Option,
+"One of BIOL 201, 204, 205, 209, 210",3
+"One of BIOL 202, STAT 230",3
+Total Credits,60
+Third and Fourth Years,
+"BIOC 304, 305",6
+BIOL 366,3
+BIOC 393,3
+Arts electives,6
+Biochemistry Option,
+"Three of BIOC 402, 403, 405, 410, 420, 425",9
+CHEM 305,3
+"Two of CHEM 304, 330, 333, 335, BIOC 494, BIOC 4951",6
+Upper-level science elective,6
+Upper-level arts or science electives,6
+Electives,12
+Medical and Molecular Biology Option,
+"BIOC 308, 309",6
+"Two of BIOC 402, 403, 405, 410",6
+BIOC 407,3
+"One of BIOC 494, BIOC 4951",3
+BIOL 318,3
+"Two of BIOL 312, 314, 341, 363",6
+Upper-level elective,3
+Electives,12
+Total Credits,60
+Minimum credits for degree,120

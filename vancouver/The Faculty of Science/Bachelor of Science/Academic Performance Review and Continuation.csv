@@ -1,0 +1,27 @@
+INFO,CREDIT
+9 credits or fewer attempted,Current Standing
+Performance in Term,More than 9 credits attempted
+Current Standing,Performance in Term
+Academic Probation (ACPR) or Failed already on record,AVG < 65% or CP < 100%
+In Good Standing,AVG < 50% or CP < 50%
+ACPR or Failed already on record,AVG < 55% or CP < 100%
+In Good Standing,AVG < 55% or CP < 65%
+Sessional Average & Course Success,Standing Upon Entering Session
+Standing Upon Entering Session,Standing Upon Entering Session
+,New Standing
+New Standing,New Standing
+,Good standing
+Academic Probation (ACPR),"Failed standing, permitted to continue"
+"55% or higher, passed all courses",Good standing
+"Good standing if enrolled in 12 or more credits; otherwise, ACPR","Good standing if enrolled in 12 or more credits; otherwise, ACPR1"
+"At least 50% but less than 55%, passed all courses",Good standing
+ACPR,ACPR1
+"55% or higher, failed one or more courses","Good standing, if no Failed standing on record; otherwise, ACPR"
+ACPR,ACPR1
+"At least 50%, but less than 55%, failed one or more courses","ACPR if no Failed standing on record; otherwise, Failed, required to withdraw"
+"Failed, required to discontinue or withdraw2","Failed, required to withdraw"
+"Below 50%, enrolled in 12 or more credits (Winter) or 6 or more (Summer)","Failed, required to discontinue or withdraw2"
+"Failed, required to discontinue or withdraw2","Failed, required to withdraw"
+Below 50% enrolled in fewer than 12 credits (Winter) or fewer than 6 (Summer),"Failed, permitted to continue if no Failed standing on record; otherwise, Failed, required to withdraw"
+"Failed, required to discontinue or withdraw2","Failed, required to withdraw"
+1 Failed Standing remains on record and may affect future academic standing.,"2 If student has a previous Failed standing, the requirement is to withdraw from UBC."
