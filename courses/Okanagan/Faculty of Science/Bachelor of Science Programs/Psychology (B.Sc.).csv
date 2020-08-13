@@ -1,0 +1,14 @@
+INFO,CREDIT
+First Year,Credits
+"ENGL 109, or two of ENGL 112, 113, 114, 150, 151, 1531, 154, 155, or 156",6
+MATH 100,3
+"One of COSC, DATA, STAT, additional MATH courses",3
+"At least 3 credits of experimental science in any BIOL, CHEM, EESC, or PHYS courses with labs",3
+Science electives3,9
+"PSYO 111, 121",6
+Total Credits,30
+Second Year,
+Science [non-Psychology] electives3,12
+"PSYO 270, 2712",6
+"At least 12 credits of non-science designated courses4,5",12
+Total Credits,30

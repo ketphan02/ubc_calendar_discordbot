@@ -1,0 +1,47 @@
+INFO,CREDIT
+First Year,Credits
+ENGL 112,3
+INDG 102,3
+SUST 100,3
+SUST 104,3
+COSC 111,3
+DATA 101,3
+ECON 101,3
+ECON 102,3
+MATH 100,3
+MATH 101,3
+Total Credits (minimum),30
+Second Year,Credits
+STAT 230,3
+SUST 200,3
+SUST 202,1
+SUST 204,3
+SUST 205,3
+DATA 301,3
+GEOG 128,3
+PHIL 125,3
+Electives,9
+Total Credits (minimum),31
+Third Year,Credits
+SUST 300,3
+SUST 301,3
+SUST 302,1
+COSC 304,3
+DATA 311,3
+DATA 315,3
+ECON 371,3
+GISC 380,3
+Electives,9
+Total Credits (minimum),31
+Fourth Year,Credits
+SUST 400,6
+SUST 402,1
+BIOL 401 or another approved upper-level BIOL course,3
+DATA 407,3
+DATA 410,3
+GEOG 431,3
+PHIL 435,3
+STAT 406,3
+Electives,6
+Total Credits (minimum),31
+Overall Total Credits (minimum),123

@@ -1,0 +1,45 @@
+INFO,CREDIT
+First Year,Second Year
+Third Year,Fourth Year
+LFS 100,1
+LFS 150 or ENGL 112 or WRDS 150,3
+BIOL 112 & 121,6
+BIOL 1551,6
+CHEM 121 (or 111)2,4
+CHEM 123 (or 113),4
+MATH 102 & 103 or equivalent3,6
+Non-science electives4,3
+Total Credits,33
+LFS 250,6
+LFS 252 or equivalent5,3
+FNH 200,3
+FNH 250,3
+CHEM 233,3
+CHEM 235,1
+BIOL 200,3
+BIOL 2016,3
+Restricted electives7,6
+Total Credits,31
+LFS 350,3
+FNH 313,3
+FNH 350,3
+FNH 351,3
+Health Elective7,3
+Restricted electives7,9
+Unrestricted electives,6
+Total Credits,30
+FNH courses,6
+FNH 403,3
+Health Elective7,3
+Restricted electives7,12
+Unrestricted electives,6
+Total Credits,30
+Overall four-year total credits8,124
+"1 Equivalent courses include BIOL 153, CAPS 301",
+2 CHEM 111 is not for students with Chemistry 12.,
+"3 Students who have not completed Calculus 12 should take MATH 180 or 184, plus either MATH 103 or 105 to fulfill their first year Math requirement.",
+"4 Students wishing to take FRE courses should select one of ECON 101 or LFS 101, and ECON 102 as their non-science and unrestricted electives. Students considering a transfer to another FNH major should take the required electives for that major.",
+"5 Equivalent courses include BIOL 300, EPSE 482, FRST 231, STAT 200.",
+"6 Equivalent courses include BIOL 201, BIOC 202, BIOC 203",
+7 To be selected in consultation with a program advisor. For suggested courses see the list posted on the Faculty website.,
+8 A minimum of 45 credits of the 124 credits required for the Major must be for courses numbered 300 or higher.,

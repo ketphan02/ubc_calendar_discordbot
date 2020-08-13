@@ -1,0 +1,43 @@
+INFO,CREDIT
+First Year,Credits
+CHEM 111 or CHEM 121; and CHEM 113 or CHEM 123,6
+"ENGL 109, or two of ENGL 112, 113, 114, 150, 151, 153, 154, 155, or 156",6
+"MATH 100, 101",6
+PHYS 111 or 1121,3
+"PHYS 102, 121 or 1221",3
+Electives2,6
+Total Credits,30
+Second Year,
+"ASTR 210, or one of PHYS 225, 305, 320",3
+"MATH 200, 2213, 225, 3174",12
+"PHYS 200, 215, 216, 231, 232",15
+Total Credits,30
+Third and Fourth Years,
+MATH 319,3
+"PHYS 301, 304, 331, 328, 403, 441",18
+"9 credits chosen from: PHYS 314, 324, 400, 401, 402, 407, 408, 413, 418, 420, 431, 432, 474",9
+"6 credits chosen from: PHYS 305, 310, 314, 320, 321, 324, 360, 400, 4015, 4025, 407, 408, 413, 418, 420, 425, 431, 432, 4486, 474",6
+"Electives2,7,8",24
+Total Credits,60
+Minimum credits for degree,120
+First Year,Credits
+CHEM 111 or CHEM 121; and CHEM 113 or CHEM 123,6
+"MATH 100, 101",6
+"Two of ENGL 112 or 114, 113, 150, 151, 153",6
+PHYS 111 or 112,3
+"PHYS 102, 121 or 1221",6
+"COSC 111, 121",6
+Total Credits,30
+Second Year,
+"PHYS 200, 215, 216, 231, 232",15
+"MATH 200, 220, 221, 225, 3172",15
+Total Credits,30
+Third and Fourth Years,
+"MATH 307, 311, 319, 327; STAT 303",15
+"PHYS 301, 304, 328",9
+"One of PHYS 4013, 4023, 4183",3
+"6 credits chosen from: MATH 350, 408, 459, 461",6
+"9 credits chosen from: PHYS 314, 331,4013, 402, 403, 407, 408, 4183, 420, 431, 432, 441, 474",9
+Electives4,18
+Total Credits,60
+Minimum credits for degree,120

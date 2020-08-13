@@ -89,14 +89,8 @@ def pre_pre_prework(url, name):
 
     path = './courses/' + name + '/'
 
-    try:
-        os.makedirs(path)
-    except:
-        print("Already exists")
-        
-
     for i in range(len(data)):
-        data[i] = url.replace(url.replace('http://www.calendar.ubc.ca/' + name + '/', ''), data[i]['href'])
+        data[i] = 'http://www.calendar.ubc.ca/' + name + '/' + url.replace(url.replace('http://www.calendar.ubc.ca/' + name + '/', ''), data[i]['href'])
         try:
             pre_prework(data[i], path, name)
             print(path + ": Done")
@@ -104,7 +98,7 @@ def pre_pre_prework(url, name):
             print(path + ": Failed")
 
 def start():
-    url = 'http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,0,0,0'
-    pre_pre_prework(url, 'Vancouver')
-    url = 'http://www.calendar.ubc.ca/okanagan/index.cfm?tree=18,0,0,0'
-    pre_pre_prework(url, 'Okanagan')
+    url1 = 'http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,0,0,0'
+    pre_pre_prework(url1, 'Vancouver')
+    url2 = 'http://www.calendar.ubc.ca/okanagan/index.cfm?tree=18,0,0,0'
+    pre_pre_prework(url2, 'Okanagan')

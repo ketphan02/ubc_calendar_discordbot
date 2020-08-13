@@ -1,0 +1,31 @@
+INFO,CREDIT
+First Year1,Credits
+Second Year,Credits
+Third and Fourth Years,Credits
+"MATH 100 (or 102, 104, 120, 180, 184)2",3
+"MATH 101 (or 103, 105, 121)",3
+"Prerequisites for CMS Packages2,3,4,5,6",10-18
+Communication Requirement6,3
+Arts Elective,3
+Electives7,3-11
+Total Credits,30
+STAT 2008,3
+"Prerequisites for CMS Packages5,6",6-19
+Arts Electives,6
+Computing Requirement9,3
+Electives7,5-18
+Total Credits,30
+SCIE 3006,3
+First CMS Package5,9
+Second CMS Package5,9
+Third CMS Package5,9
+"Two of: BIOL 342, EOSC 442, PHYS 309, CHEM 315",2-5
+Electives7,25-28
+Total 3rd/4th Year Credits,60
+Credits for Degree,120
+1 SCIE 001 fulfills first-year science prerequisites for most CMS packages except for the Mathematical Sciences packages.  Some Mathematical Sciences packages require CPSC 110 (or CPSC 103 and CPSC 107) and CPSC 121 as additional requirements.,"2 MATH 110 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 3 credits. Taking any of MATH 120, MATH 121, MATH 180, or MATH 184 decreases the electives by 1 credit."
+3 Students who do not have B.C. High School Chemistry 12 (or its equivalent) must write the UBC Chemistry Basic Skills Test and may be required to take CHEM 100.,4 Students take CHEM 111 if credit was not obtained for Chemistry 12 and 3 credits of 100-level PHYS (normally PHYS 100) if credit was not obtained for Physics 12.
+"5 CMS Packages are in five subject areas:  Chemistry; Earth and Environmental Science;  Life Science; Mathematical Sciences: Computer Science, Mathematics, and Statistics; and  Physics & Astronomy. Students must complete courses in three of the five packages to fulfill specialization requirements (see below).",6 For a full list of acceptable courses see Communication Requirement. SCIE 300 must be taken in third year.
+,7 Elective credits together with required courses must fulfill the Faculty of Science’s: a) Foundational Requirement; b) Laboratory Science Requirement; c) Science Breadth Requirement;  d) Science and Arts Requirements;  e) Upper-level Requirement;  f) General Degree Requirements.
+,8 STAT 200 can be replaced with STAT 241 or STAT 251 or BIOL 300.
+"9 Computing Requirement (can be taken in third or fourth year by substituting electives in second year) - select one of the following courses: CPSC 100, CPSC 103, CPSC 110, CPSC 301, EOSC 211, MATH 210, PHYS 210.",

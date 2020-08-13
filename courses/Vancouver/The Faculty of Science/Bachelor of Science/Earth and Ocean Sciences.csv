@@ -1,0 +1,30 @@
+INFO,CREDIT
+First Year,Second Year
+Third and Fourth Years,Communication Requirement1
+3,CHEM 121 (or 111)2
+4,CHEM 123
+4,EOSC or ATSC 100-level3
+6,EOSC 111
+1,MATH 100 or 102 or 1044
+3,MATH 101 or 103 or 1055
+3,PHYS 100-level6
+3,Electives7
+3,Total Credits
+30,Communication Requirement1
+3,EOSC 211 or GEOB 270
+3,EOSC 212
+3,"EOSC, ENVR, or ATSC courses numbered 200 or above8"
+6,Electives7
+15,Total Credits
+30,"EOSC, ENVR, or ATSC courses numbered 300 or above9"
+24,"EOSC, ENVR, or ATSC 400-level"
+6,Electives7
+30,Total Credits
+60,Minimum Credits for Degree
+120,1 A total of 6 credits of coursework is required to meet the Communication Requirement. For a full list of acceptable courses see Communication Requirement.
+2 Students who do not have B.C. High School Chemistry 12 (or its equivalent) must write the UBC Chemistry Basic Skills Test and may be required to take CHEM 100.,3 Three credits may be deferred until second year. The requirement for these courses may be waived if a student has completed upper-level courses in each of the solid and fluid earth sciences.
+4 MATH 180 or 184 or 120 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 1 credit. MATH 110 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 3 credits.,5 MATH 121 may substitute for any of the specified integral calculus courses listed by decreasing the electives by 1 credit.
+,"6 Chosen from 100-level PHYS courses, excluding PHYS 100. Students without Physics 12 must take PHYS 100 before taking any other 100-level PHYS course. PHYS 100 will count as an elective. Qualified students are encouraged to take PHYS 117 or PHYS 107."
+,7 Elective credits together with required courses must fulfill the Faculty of Science’s: a) Foundational Requirement; b) Laboratory Science Requirement; c) Science Breadth Requirement;  d) Science and Arts Requirements;  e) Upper-level Requirement;  f) General Degree Requirements.
+,8 Six credits may be delayed to third year if 300-level or higher courses are used for this requirement. See advisor.
+"9 A maximum of 6 credits may be replaced by credits from (BIOL 306, CHEM 301, 302, GEOB 300, or 304).",

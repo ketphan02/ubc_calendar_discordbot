@@ -1,0 +1,49 @@
+INFO,CREDIT
+First Year,Second Year
+Third Year,Fourth Year
+BIOL 121,3
+CHEM 121,4
+CHEM 123,4
+CONS 101,3
+ECON 101,3
+ENGL 112,3
+GEOB 1021,3
+"MATH 100, 102, or 1042",3
+SOCI 101 or 1023,3
+Electives,3
+Total Credits,32
+BEST 200,3
+BEST 201,3
+BEST 202,3
+BEST 203,3
+CHEM 233,3
+FRST 231,3
+WOOD 225,3
+Restricted Social Science Elective4,3
+Electives,6
+Total Credits,30
+BEST 300,3
+BEST 301,3
+BEST 302,3
+BEST 303,3
+BEST 304,3
+BEST 308,3
+FRST 302,3
+FRST 318,3
+Restricted Natural Resources Conservation Elective5,3
+Electives,3
+Total Credits,30
+BEST 400,3
+BEST 401,3
+BEST 402,3
+BEST 403,3
+CONS 425,3
+WOOD 365,3
+WOOD 461,3
+Restricted Commerce Elective6,3
+Electives,6
+Total Credits,30
+1 Students may take CONS 210 instead of GEOB 102 for credit,"2 Students may take MATH 180 or 184 (4 credits) or MATH 110 (6 credits) instead of MATH 100, 102, or 104 (3 credits), but the credit difference cannot be applied towards program elective."
+3 SOCI 101 or 102 are acceptable Sociology courses,"4 One of the following 3-credit courses: GEOG 310, GEOG 318, GEOG 319, POLI 375, or SOCI 360 or SOCI 342"
+5 One of the following 3-credit courses: CONS 200 or CONS 340,"6 One of the following 3-credit courses: COMR 329, COMR 457, or COMR 465"
+,

@@ -1,0 +1,282 @@
+INFO,CREDIT
+First Year,Second Year
+Third and Fourth Years,Communication Requirement1
+3,CHEM 121 (or 111)2
+4,CHEM 1233
+4,MATH 100 or 102 or 1044
+3,MATH 101 or 103 or 1055
+3,PHYS 100-level6
+6,"Electives7,8"
+7,Total Credits
+30,CHEM 2039
+4,CHEM 208
+3,CHEM 21110
+4,"CHEM 213, 245"
+4,CHEM 218
+3,MATH 200
+3,MATH 221
+3,"Electives7,8"
+6,Total Credits
+30,BIOL 201 (or BIOC 202)11
+3,CHEM 3001
+3,CHEM 304
+3,CHEM 311
+3,CHEM 312
+3,"CHEM 325, 345"
+4,"Two of CHEM 305, 313, 318, 327, 330, 412"
+6,CHEM 44512
+3,"CHEM Electives8,12,13"
+12,"Electives7,8"
+20,Total Credits
+60,Total Credits for Degree
+120,"1 Of the 6 credits required to satisfy the Communication Requirement, 3 credits are specified in third year (CHEM 300). The remaining 3 credits must be chosen from the list of acceptable courses, see Communication Requirement."
+2 Students who do not have B.C. High School Chemistry 12 (or its equivalent) must write the UBC Chemistry Basic Skills Test and may be required to take CHEM 100. CHEM 110 and 115 may substitute for CHEM 111. CHEM 120 and CHEM 115 may substitute for CHEM 121.,3 CHEM 130 and CHEM 135 may substitute for CHEM 123.
+,4 MATH 180 or 184 or 120 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 1 credit. MATH 110 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 3 credits.
+5 MATH 121 may substitute for any of the specified integral calculus courses listed by decreasing the electives by 1 credit.,"6 Chosen from 100-level PHYS courses, excluding PHYS 100. PHYS 109 or 119 are recommended. Students without Physics 12 must take PHYS 100 before taking other 100-level PHYS courses."
+"7 Elective credits together with required courses must fulfill the Faculty of Science’s: a) Foundational Requirement; b) Laboratory Science Requirement; c) Science Breadth Requirement;  d) Science and Arts Requirements;  e) Upper-level Requirement;  f) General Degree Requirements.Elective credits may be redistributed among the years in this specialization, provided the total number remains the same. The year level of an elective does not need to correspond to the year level of the specialization.",8 Students may elect to apply elective credits towards a Specific Focus Area in Chemistry.
+9 CHEM 223 and 225 may substitute for CHEM 203. Students with CHEM 235 and a score of 76% or higher in CHEM 233 may apply for admission to this specialization and will be allowed to use CHEM 233 and 235 in place of CHEM 203.,10 CHEM 210 and 215 may substitute for CHEM 211.
+,"11 BIOC 203 is a suitable substitute for this requirement. For students without credit for BIOL 200, selecting BIOL 201 requires either CHEM 313 or CHEM 330."
+"12 With permission, CHEM 449 or 6 credits of CHEM 445 may be substituted for 3 credits of CHEM 445 and 3 credits of 400-level CHEM lecture electives.","13 Chosen from 300- and 400- level CHEM lecture courses. At least 3 credits must be chosen from 400-level CHEM lecture courses, excluding the credits associated with substitutions involving CHEM 445 or CHEM 449, as detailed in footnote 12."
+First Year,Second Year
+Third Year,Fourth Year
+Communication Requirement1,3
+CHEM 121  (or 111)2,4
+CHEM 1233,4
+MATH 100 or 102 or 1044,3
+MATH 101 or 103 or 1055,3
+PHYS 100-level6,6
+"Electives7,8",10
+Total Credits,33
+CHEM 2039,4
+CHEM 208,3
+CHEM 21110,4
+"CHEM 213, 245",4
+CHEM 218,3
+MATH 200,3
+MATH 221,3
+"Electives7,8",9
+Total Credits,33
+BIOL 201 (or BIOC 202)11,3
+CHEM 3001,3
+CHEM 304,3
+CHEM 311,3
+CHEM 312,3
+"CHEM 319, 329",2
+"CHEM 325, 345",4
+"Three of CHEM 305, 313, 318, 327, 330",9
+"Electives7,8",3
+Total Credits,33
+CHEM 412,3
+CHEM 449,6
+"CHEM electives7,12",12
+"Electives7,8",12
+Total Credits,33
+Total Credits for Degree,132
+"1  Of the 6 credits required to satisfy the Communication Requirement, 3 credits are specified in third year (CHEM 300). The remaining 3 credits must be chosen from the list of acceptable courses, see Communication Requirement.",2 Students who do not have B.C. High School Chemistry 12 (or its equivalent) must write the UBC Chemistry Basic Skills Test and may be required to take CHEM 100. CHEM 110 and 115 may substitute for CHEM 111. CHEM 120 and CHEM 115 may substitute for CHEM 121.
+3 CHEM 130 and CHEM 135 may substitute for CHEM 123.,
+4 MATH 180 or 184 or 120 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 1 credit. MATH 110 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 3 credits.,5 MATH 121 may substitute for any of the specified integral calculus courses listed by decreasing the electives by 1 credit.
+"6 Chosen from 100-level PHYS courses, excluding PHYS 100. PHYS 109 or 119 are recommended. Students without Physics 12 must take PHYS 100 before taking other 100- level PHYS courses.","7 Elective credits together with required courses must fulfill the Faculty of Science’s: a) Foundational Requirement; b) Laboratory Science Requirement; c) Science Breadth Requirement;  d) Science and Arts Requirements;  e) Upper-level Requirement;  f) General Degree Requirements. Elective credits may be redistributed among the years in this specialization, provided the total number remains the same. The year level of an elective does not need to correspond to the year level of the specialization. Note that students in honours specializations must complete a minimum of 30 credits in each Winter Session."
+8 Students may elect to apply elective credits towards a Specific Focus Area in Chemistry.,9 CHEM 223 and 225 may substitute for CHEM 203. Students with CHEM 235 and a score of 76% or higher in CHEM 233 may apply for admission to this specialization and will be allowed to use CHEM 233 and 235 in place of CHEM 203.
+10 CHEM 210 and 215 may substitute for CHEM 211.,
+"11 BIOC 203 is a suitable substitute for this requirement. For students without credit for BIOL 200, selecting BIOL 201 requires either CHEM 313 or CHEM 330.",12 Chosen from 300- and 400-level CHEM lecture courses. At least 9 credits must be chosen from 400-level CHEM lecture courses.
+First Year,Second Year
+Third Year,Fourth Year
+Communication Requirement1,3
+BIOL 1122,3
+BIOL 1212,3
+BIOL 1402,2
+CHEM 121 (or 111)3,4
+CHEM 1234,4
+MATH 100 or 102 or 1045,3
+MATH 101 or 103 or 1056,3
+PHYS 1017,3
+Electives8,2
+Total Credits,30
+BIOL 200,3
+BIOL 2019,3
+BIOL 234 (or 233),3
+"One of BIOL 203, 204, 205, 209, 210",4
+CHEM 20310,4
+CHEM 20511,3
+CHEM 21112,4
+"CHEM 213, 245",4
+Electives8,2
+Total Credits,30
+BIOL 230 or 260,3
+BIOL 30013,3
+"Two of BIOL 337, 340, 341, 351, 35214",4
+CHEM 208,3
+CHEM 3001,3
+CHEM 313,3
+"CHEM 315, 33515",2
+"One of CHEM 218, 305, 311, 327, 330",3
+Electives8,6
+Total Credits,30
+BIOL 336,3
+CHEM 44516,3
+CHEM and Life Science Electives17,12
+Electives8,12
+Total Credits,30
+Total Credits for Degree,120
+"1 Of the 6 credits required to satisfy the Communication Requirement, 3 credits are specified in third year (CHEM 300). The remaining 3 credits must be chosen from the list of acceptable courses, see Communication Requirement.",
+"2 Students without Biology 11 or Biology 12 must take BIOL 111 before taking BIOL 112, 121 or 140.",
+3 Students who do not have B.C. High School Chemistry 12 (or its equivalent) must write the UBC Chemistry Basic Skills Test and may be required to take CHEM 100. CHEM 110 and 115 may substitute for CHEM 111. CHEM 120 and CHEM 115 may substitute for CHEM 121.,
+4 CHEM 130 and CHEM 135 may substitute for CHEM 123.,
+5 MATH 180 or 184 or 120 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 1 credit. MATH 110 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 3 credits.,
+6 MATH 121 may substitute for any of the specified integral calculus courses listed by decreasing the electives by 1 credit.,
+7 PHYS 107 or 117 may substitute for PHYS 101. Students without Physics 12 must take PHYS 100 before taking other 100-level PHYS courses.,
+"8 Elective credits may be redistributed among the years in this specialization, provided the total number remains the same. The year level of an elective does not need to correspond to the year level of the specialization. Elective credits together with required courses must fulfill the Faculty of Science’s: a) Foundational Requirement; b) Laboratory Science Requirement; c) Science Breadth Requirement;  d) Science and Arts Requirements;  e) Upper-level Requirement;  f) General Degree Requirements.",
+9 BIOC 202 or BIOC 203 are suitable substitutes for this requirement.,
+10 CHEM 223 and 225 may substitute for CHEM 203. Students with CHEM 235 and a score of 76% or higher in CHEM 233 may apply for admission to this specialization and will be allowed to use CHEM 233 and 235 in place of CHEM 203.,
+11 CHEM 304 is a suitable substitute for this requirement.,
+12 CHEM 210 and 215 may substitute for CHEM 211.,
+13 STAT 200 may replace BIOL 300 with permission of a Biology specialization advisor. Students who replace BIOL 300 must complete an additional 3 credits of BIOL numbered higher than 300.,
+"14 BIOL 341 is recommended. BIOL 326, 363, 404, 409, 437, and 444 may also be included in this list of courses. If the credit total of the courses selected for this requirement exceeds 4, the excess may be applied towards BIOL lecture electives (see footnote 17).",
+15 CHEM 325 and 345 may be substituted for CHEM 315 and 335 and 2 credits of CHEM 300-level lecture electives.,
+"16 With permission, CHEM 449 or 6 credits of CHEM 445 may be substituted for 3 credits of CHEM 445 and 3 credits of 400-level CHEM lecture electives.",
+"17 Chosen from 300- and 400-level BIOC, BIOL, CAPS, CHEM, MICB, or MRNE lecture courses, as well as EOSC 470, 472, 474, 475, 478, ENVR 430, GEOB 307, 407, FNH 350, 351, 451, MATH 462, MEDG 410, 419, 420, 421, and PCTH 305. At least 3 credits must be chosen from BIOL lecture courses and at least 3 credits must be chosen from 400-level CHEM lecture courses. Recommended electives include BIOC 302, 303, 402, 410, BIOL 335, 361, 436, 463, CHEM 411, 413, 435 and MICB 325, 405.",
+First Year,Second Year
+Third Year,Fourth Year
+Communication Requirement1,3
+BIOL 1122,3
+BIOL 1212,3
+BIOL 1402,2
+CHEM 121 (or 111)3,4
+CHEM 1234,4
+MATH 100 or 102 or 1045,3
+MATH 101 or 103 or 1056,3
+PHYS 1017,3
+Electives8,5
+Total Credits,33
+BIOL 200,3
+BIOL 2019,3
+BIOL 234 (or 233),3
+"One of BIOL 203, 204, 205, 209, 210",4
+CHEM 20310,4
+CHEM 20511,3
+CHEM 20812,3
+CHEM 21113,4
+"CHEM 213, 245",4
+Electives8,2
+Total Credits,33
+BIOL 230 or 260,3
+BIOL 30014,3
+BIOL 33615,3
+"Two of BIOL 337, 340, 341, 351, 35216",4
+CHEM 3001,3
+CHEM 313,3
+"CHEM 315, 33517",2
+"CHEM 319, 329",2
+"One of CHEM 218, 305, 311, 327, 330",3
+Electives8,7
+Total Credits,33
+BIOL 449 or CHEM 449,6
+CHEM and Life Science Electives18,18
+Electives8,9
+Total Credits,33
+Total Credits for Degree,132
+"1 Of the 6 credits required to satisfy the Communication Requirement, 3 credits are specified in third year (CHEM 300). The remaining 3 credits must be chosen from the list of acceptable courses, see Communication Requirement.","2 Students without Biology 11 or Biology 12 must take BIOL 111 before taking BIOL 112, 121 or 140."
+,3 Students who do not have B.C. High School Chemistry 12 (or its equivalent) must write the UBC Chemistry Basic Skills Test and may be required to take CHEM 100. CHEM 110 and 115 may substitute for CHEM 111. CHEM 120 and CHEM 115 may substitute for CHEM 121.
+,4 CHEM 130 and CHEM 135 may substitute for CHEM 123
+,5 MATH 180 or 184 or 120 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 1 credit.  MATH 110 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 3 credits.
+,6 MATH 121 may substitute for any of the specified integral calculus courses listed by decreasing the electives by 1 credit.
+,7 PHYS 107 or 117 may substitute for PHYS 101. Students without Physics 12 must take PHYS 100 before taking other 100-level PHYS courses.
+,"8 Elective credits may be redistributed among the years in this specialization, provided the total number remains the same. The year level of an elective does not need to correspond to the year level of the specialization. Elective credits together with required courses must fulfill the Faculty of Science’s: a) Foundational Requirement; b) Laboratory Science Requirement; c) Science Breadth Requirement;  d) Science and Arts Requirements;  e) Upper-level Requirement;  f) General Degree Requirements."
+,9 BIOC 202 or BIOC 203 are suitable substitutes for this requirement.
+,10 CHEM 223 and 225 may substitute for CHEM 203. Students with CHEM 235 and a score of 76% or higher in CHEM 233 may apply for admission to this specialization and will be allowed to use CHEM 233 and 235 in place of CHEM 203.
+,11 CHEM 304 is a suitable substitute for this requirement.
+,12 May be deferred to third year to allow space for additional electives.
+,13 CHEM 210 and 215 may substitute for CHEM 211.
+,14 STAT 200 may replace BIOL 300 with permission of a Biology specialization advisor.  Students who replace BIOL 300 must complete an additional 3 credits of BIOL numbered higher than 300.
+,15 May be deferred to fourth year to allow space for additional electives.
+,"16 BIOL 341 is recommended. BIOL 326, 363, 404, 409, 437, and 444 may also be included in this list of courses. If the credit total of the courses selected for this requirement exceeds 4, the excess may be applied towards BIOL lecture electives (see footnote 18)."
+,17 CHEM 325 and 345 may be substituted for CHEM 315 and 335 and 2 credits of CHEM 300-level lecture electives.
+,"18 Chosen from 300- and 400-level BIOC, BIOL, CAPS, CHEM, MICB, or MRNE lecture courses, as well as EOSC 470, 472, 474, 475, 478, ENVR 430, GEOB 307, 407, FNH 350, 351, 451, MATH 462, MEDG 410, 419, 420, 421, and PCTH 305. At least 6 credits must be chosen from BIOL lecture courses and at least 6 credits must be chosen from 400-level CHEM lecture courses. Recommended electives include BIOC 302, 303, 402, 410, BIOL 335, 361, 436, 463, CHEM 411, 413, 435 and MICB 325, 405."
+,Second Year
+First Year,Fourth Year
+Third Year,3
+Communication Requirement1,4
+CHEM 121 (or 111)2,4
+CHEM 123 (or 113),4
+CPSC 110 (or 103 and 107)3,4
+MATH 1204,4
+MATH 1215,7
+"PHYS 107, 108, 1096",3
+Electives7,33
+Total Credits,4
+CHEM 2038,3
+CHEM 208,4
+CHEM 211,4
+"CHEM 213, 245",4
+CPSC 210 or MATH 2109,3
+MATH 215,3
+MATH 223 (or 221),3
+MATH 226 (or 200)10,3
+MATH 227 (or 317),2
+Electives7,33
+Total Credits,3
+CHEM 3001,3
+CHEM 304,3
+CHEM 31211,1
+CHEM 315,2
+"CHEM 319, 329",3
+MATH 30512,3
+MATH 316,3
+MATH 318,3
+MATH 320,3
+MATH 321,6
+Electives7,33
+Total Credits,3
+CHEM 412,6
+CHEM 44913,3
+CHEM Selections14,9
+"9 credits from MATH 322, 323, 400-406, 412, 416-429, 433-440, 443, 449, 450",3
+PHYS 301,9
+Electives7,33
+Total Credits,132
+Total Credits for Degree,2 Students who do not have B.C. High School Chemistry 12 (or its equivalent) must write the UBC Chemistry Basic Skills Test and may be required to take CHEM 100.
+"1 Of the 6 credits required to satisfy the Communication Requirement, 3 credits are specified in third year (CHEM 300). The remaining 3 credits must be chosen from the list of acceptable courses, see Communication Requirement.","3 The standard route of CPSC 110 can be substituted with the 6 credit combination CPSC 103 and 107, using 2 credits of electives."
+,4 MATH 180 or 184 may substitute for MATH 120.  MATH 100 or 102 or 104 may substitute for MATH 120 by increasing the electives by 1 credit. MATH 110 may substitute for MATH 120 by decreasing the electives by 2 credits.
+,"6 PHYS 117, 118 and 119 may substitute for PHYS 107, 108, and 109. Students without Physics 12 must take PHYS 100 before taking other 100-level PHYS courses."
+5 MATH 101 or 103 or 105 may substitute for MATH 121 by increasing the electives by 1 credit.,8 Students with CHEM 235 and a score of 76% or higher in CHEM 233 may apply for admission to this specialization and will be allowed to use CHEM 233 and 235 in place of CHEM 203.
+"7 Elective credits may be redistributed among the years in this specialization, provided the total number remains the same. The year level of an elective does not need to correspond to the year level of the specialization. Elective credits together with required courses must fulfill the Faculty of Science’s: a) Foundational Requirement; b) Laboratory Science Requirement; c) Science Breadth Requirement;  d) Science and Arts Requirements;  e) Upper-level Requirement;  f) General Degree Requirements.",10 Students who take MATH 200 or who obtain less than 68% in MATH 226 must take MATH 220 and obtain 80% or higher in order to take the required course MATH 320.
+,9 Students selecting MATH 210 must increase the number of electives by 1 credit. MATH 210 may not be offered every year.
+,11 PHYS 304 is a suitable substitute for this requirement.
+,"12 MATH 300, 301 may substitute for MATH 305 by decreasing the unspecified electives by 3 credits."
+,13 Students in this specialization will typically select projects in physical or theoretical chemistry.
+,"14 Chosen from 400-level CHEM lecture courses. Recommended CHEM courses include CHEM 401, 402, 404, 407, 408, 410, 417."
+,Second Year
+,Communication Requirement1
+First Year,CHEM 121 (or 111)2
+Third and Fourth Years,CHEM 123 (or 113)
+3,MATH 100 or 102 or 1043
+4,MATH 101 or 103 or 1054
+4,PHYS 100-level5
+3,Electives6
+3,Total Credits
+6,CHEM 2037
+9,CHEM 208
+32,CHEM 211
+4,"CHEM 213, 245"
+3,MATH 2008
+4,Credits chosen in consultation with the other department9
+4,Electives6
+3,Total Credits
+12,CHEM 3001
+3,"CHEM 319, 329"
+33,CHEM 44910
+3,CHEM Electives11
+2,Credits chosen in consultation with the other department9
+6,Electives6
+21,Total Credits
+24,Total Credits for Degree
+11,"1 Of the 6 credits required to satisfy the Communication Requirement, 3 credits are specified in third year (CHEM 300). The remaining 3 credits must be chosen from the list of acceptable courses, see Communication Requirement."
+67,
+132,4 MATH 121 may substitute for any of the specified integral calculus courses listed by decreasing the electives by 1 credit.
+2 Students who do not have B.C. High School Chemistry 12 (or its equivalent) must write the UBC Chemistry Basic Skills Test and may be required to take CHEM 100.,"6 Elective credits may be redistributed among the years in this specialization, provided the total number remains the same. The year level of an elective does not need to correspond to the year level of the specialization. Elective credits together with required courses must fulfill the Faculty of Science’s: a) Foundational Requirement; b) Laboratory Science Requirement; c) Science Breadth Requirement;  d) Science and Arts Requirements;  e) Upper-level Requirement;  f) General Degree Requirements."
+3 MATH 180 or 184 or 120 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 1 credit.  MATH 110 may substitute for any of the specified differential calculus courses listed by decreasing the electives by 3 credits.,8 MATH 226 is a suitable substitute for this requirement. MATH 217 may substitute for MATH 200 by decreasing the electives by 1 credit.
+"45/sup>Chosen from 100-level PHYS courses, excluding PHYS 100. PHYS 109 or 119 are recommended. Students without Physics 12 must take PHYS 100 before taking other 100-level PHYS courses.",9 These credits may be redistributed among the years in the specialization and must be chosen in consultation with the advisor from the other science department.
+7 Students with CHEM 235 and a score of 76% or higher in CHEM 233 may apply for admission to this specialization and will be allowed to use CHEM 233 and 235 in place of CHEM 203.,10 This may be substituted by an equivalent thesis course in the other department.
+,
+,
+11 Chosen from 300- and 400-level CHEM lecture courses in consultation with a Chemistry advisor. At least 6 credits must be chosen from 400-level CHEM lecture courses.,

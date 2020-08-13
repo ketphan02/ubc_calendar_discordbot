@@ -14,8 +14,6 @@ client = discord.Client()
 @client.event
 async def on_ready():
     print(f'{client.user} has connected to Discord!')
-    crawl_visualize.start() # This takes too much time
-    print("Finished crawling data")
 
 @client.event
 async def on_message(message):
@@ -26,14 +24,14 @@ async def on_message(message):
 
     if message.content.lower() == "/calendar":
         channel = message.channel
-        await channel.send("What is your campus?\n1. Vancouver\n2. Okanagan")
+        await channel.send("What is your campus?\n1. Okanagan\n2. Vancouver")
         directory = os.listdir(path)
         
-        await template("What is your Faculty?", client, path, directory, channel)
+        directory, path = await template("What is your Faculty?", client, path, directory, channel)
 
-        await template("What is your Program?", client, path, directory, channel)
+        directory, path = await template("What is your Program?", client, path, directory, channel)
 
-        await template("What is your Major?", client, path, directory, channel)
+        directory, path = await template("What is your Major?", client, path, directory, channel)
         
         usr_data = await client.wait_for('message')
         msg = usr_data.content
@@ -41,9 +39,8 @@ async def on_message(message):
         path = path + directory[msg]
         
         # col_names = ["INFO", "CREDIT"]
-        data = pd.read_csv(path)
+        data = pd.read_csv(path, index_col= False)
         await channel.send(data)
-        print(data)
 
 
 async def template(question, client, path, directory, channel):
@@ -57,6 +54,10 @@ async def template(question, client, path, directory, channel):
         msg = msg + str(i + 1) + '. ' + directory[i] + '\n'
     await channel.send(msg)
 
+    return directory, path
+
+# crawl_visualize.start() # This takes too much time
+# print("Finished crawling data")
 client.run(TOKEN)
 
 

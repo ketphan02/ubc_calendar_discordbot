@@ -1,0 +1,11 @@
+INFO,CREDIT
+PERCENTAGE (%),LETTER GRADE
+90-100,A+
+85-89,A
+80-84,A-
+76-79,B+
+72-75,B
+68-71,B-
+64-67,C+ (Minimal pass)
+60-63,C (Minimal pass)
+0-59,F (Fail)
