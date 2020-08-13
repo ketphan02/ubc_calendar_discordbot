@@ -89,6 +89,12 @@ def pre_pre_prework(url, name):
 
     path = './courses/' + name + '/'
 
+    try:
+        os.makedirs(path)
+    except:
+        print("Already exists")
+        
+
     for i in range(len(data)):
         data[i] = url.replace(url.replace('http://www.calendar.ubc.ca/' + name + '/', ''), data[i]['href'])
         try:
