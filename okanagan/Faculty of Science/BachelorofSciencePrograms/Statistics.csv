@@ -1,23 +1,23 @@
-0,"                                                INFO   CREDIT
-0                             First and Second Years  Credits
-0     CHEM 111 or CHEM 121; and CHEM 113 or CHEM 123        6
-0                                      MATH 100, 101        6
-0  ENGL 109, or two of ENGL 112, 113, 114, 150, 1...        6
-0         PHYS 111 or 112; and PHYS 102, 121, or 122        6
-0                                           COSC 111        3
-0                                           DATA 101        3
-0                                     MATH 200, 2211        6
-0                                           STAT 230        3
-0                                     Arts electives        6
-0                         2nd-Year Science Electives        6
-0                               Stream requirements2        9
-0                                      Total Credits       60
-0                             Third and Fourth Years         
-0                         Minimum credits for degree      120
-0                            STAT 303, 400, 401, 403       12
-0                            DATA 311, 405, 407, 410       12
-0  Two of MATH 303, 307, COSC 303, 304, DATA 301,...        6
-0                                     Arts electives        6
-0  Electives, of which at least 3 credits must be...       15
-0                               Stream requirements2        9
-0                                      Total Credits       60"
+INFO,CREDIT
+First and Second Years,Credits
+CHEM 111 or CHEM 121; and CHEM 113 or CHEM 123,6
+"MATH 100, 101",6
+"ENGL 109, or two of ENGL 112, 113, 114, 150, 151, 153, 154, 155, or 156",6
+"PHYS 111 or 112; and PHYS 102, 121, or 122",6
+COSC 111,3
+DATA 101,3
+"MATH 200, 2211",6
+STAT 230,3
+Arts electives,6
+2nd-Year Science Electives,6
+Stream requirements2,9
+Total Credits,60
+Third and Fourth Years,
+Minimum credits for degree,120
+"STAT 303, 400, 401, 403",12
+"DATA 311, 405, 407, 410",12
+"Two of MATH 303, 307, COSC 303, 304, DATA 301, PHYS 420",6
+Arts electives,6
+"Electives, of which at least 3 credits must be upper-level",15
+Stream requirements2,9
+Total Credits,60

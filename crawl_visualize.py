@@ -16,7 +16,7 @@ def work(url, path):
 
     data = data.findAll("table")
 
-    col1 = col2 = df = pd.Series([])
+    col1 = col2 = pd.Series([])
 
     for q in range(len(data)):
         
@@ -25,12 +25,12 @@ def work(url, path):
             e = pd.Series([arr[i].text.lstrip().rstrip()])
 
             if i % 2 == 0:
-                col1 = pd.concat([col1, e])
+                col1 = pd.concat([col1, e], ignore_index=True)
             else:
-                col2 = pd.concat([col2, e])
-        df = pd.Series([pd.DataFrame({"INFO": col1, "CREDIT": col2})])
+                col2 = pd.concat([col2, e], ignore_index=True)
+        df = pd.DataFrame({"INFO": col1, "CREDIT": col2})
 
-        df.to_csv(path + tit + '.csv')
+        df.to_csv(path + tit + '.csv', index=False)
 
 
 def prework(url, path):
@@ -97,3 +97,5 @@ def pre_pre_prework():
             print("Done!!!")
         except:
             print("Failed!!!")
+
+pre_pre_prework()

@@ -1,19 +1,227 @@
-0,"                                         INFO                         CREDIT
-0                                      Year 1                               
-0                                                                    HES 100
-0  Foundations of Health and Exercise Science                              3
-0                                     HES 101             Human Physiology I
-0                                           3                        HES 120
-0               Introduction to Human Anatomy                              3
-0                                     HES 130  Social Determinants of Health
-0                                           3                        HES 102
-0                                Biomechanics                              3
-0                                     HES 105          Exercise Physiology I
-0                                           3                        HES 111
-0                         Human Physiology II                              3
-0                                     HES 131            Exercise Psychology
-0                                           3                       ENGL XXX
-0              3 credits of 100-level English                              3
-0                            Non-HES Elective                               
-0                                           3                  Total Credits
-0                                                                         30"
+INFO,CREDIT
+Year 1,
+,HES 100
+Foundations of Health and Exercise Science,3
+HES 101,Human Physiology I
+3,HES 120
+Introduction to Human Anatomy,3
+HES 130,Social Determinants of Health
+3,HES 102
+Biomechanics,3
+HES 105,Exercise Physiology I
+3,HES 111
+Human Physiology II,3
+HES 131,Exercise Psychology
+3,ENGL XXX
+3 credits of 100-level English,3
+Non-HES Elective,
+3,Total Credits
+,30
+Year 2,
+,HES 200
+Introduction to Nutrition,3
+HES 201,Exercise Counselling & Behaviour Modification
+3,HES 202
+Motor Behaviour,3
+HES 203,Lifespan Development
+3,HES 211
+Exercise Testing,3
+HES 212,"Exercise Training, Conditioning and Rehabilitation for Health, Fitness and Performance"
+3,HES 231
+Exercise Counselling & Behaviour Modification,3
+HES 240,Health Research Methods
+3,2 Electives (at least one non-HES Elective)
+,6
+Total Credits,
+30,
+Year 3 & Year 4,INDG 319
+,3
+Indigenous Perspectives on Health and Physical Activity,Quantitative Data Analysis
+HES 340,18 Electives;Minimum 15 upper-level;Minimum of 3 and maximum of 6 Non-HES Electives
+3,54
+,
+Total Credits,
+60,HES 100
+Year 1,3
+,Human Physiology I
+Foundations of Health and Exercise Science,HES 120
+HES 101,3
+3,Social Determinants of Health
+Introduction to Human Anatomy,HES 102
+HES 130,3
+3,Exercise Physiology I
+Biomechanics,HES 111
+HES 105,3
+3,Exercise Psychology
+Human Physiology II,ENGL XXX
+HES 131,3
+3,
+3 credits of 100-level English,Total Credits
+Non-HES Elective,30
+3,
+,HES 200
+Year 2,3
+,Exercise Counselling & Behaviour Modification
+Introduction to Nutrition,HES 202
+HES 201,3
+3,Lifespan Development
+Motor Behaviour,HES 211
+HES 203,3
+3,"Exercise Training, Conditioning and Rehabilitation for Health, Fitness and Performance"
+Exercise Testing,HES 231
+HES 212,3
+3,Health Research Methods
+Exercise Counselling & Behaviour Modification,HES 220
+HES 240,3
+3,
+Introduction to Athletic Injury,Total Credits
+Non-HES Elective,30
+3,
+,INDG 319
+Year 3,3
+,Exercise Physiology II
+Indigenous Perspectives on Health and Physical Activity,HES 311
+HES 305,3
+3,Functional Anatomy
+Pathophysiology,HES 321
+HES 320,3
+3,Methods of Data Analysis
+Lab Techniques in Health and Exercise Science,HES 371
+HES 340,3
+3,
+Professional Practice in Health and Exercise Science,Total Credits
+3 Electives,30
+9,
+,HES 420
+Year 4,3
+,Professional Ethics in Health and Exercise Sciences
+Advanced Functional Anatomy,HES 493
+HES 471,6
+3,
+Community Practicum,Total Credits
+6 Electives,30
+18,
+,HES 100
+Year 1,3
+,Human Physiology I
+Foundations of Health and Exercise Science,HES 120
+HES 101,3
+3,Biomechanics
+Introduction to Human Anatomy,HES 105
+HES 102,3
+3,Human Physiology II
+Exercise Physiology I,HES 131
+HES 111,3
+3,3 credits of 100-level English
+Exercise Psychology,Non-HES Elective
+ENGL XXX,3
+3,
+,
+Total Credits,HES 200
+30,3
+Year 2,Exercise Counselling & Behaviour Modification
+,HES 202
+Introduction to Nutrition,3
+HES 201,Lifespan Development
+3,HES 211
+Motor Behaviour,3
+HES 203,"Exercise Training, Conditioning and Rehabilitation for Health, Fitness and Performance"
+3,HES 231
+Exercise Testing,3
+HES 212,Health Research Methods
+3,HES 220
+Exercise Counselling & Behaviour Modification,3
+HES 240,
+3,Total Credits
+Introduction to Athletic Injury,30
+Non-HES Elective,
+3,INDG 319
+,3
+Year 3,Motivational Interviewing
+,HES 332
+Indigenous Perspectives on Health and Physical Activity,3
+HES 331,Health Program Evaluation
+3,HES 340
+Advanced Theories of Behaviour Change,3
+HES 333,Professional Practice in Health and Exercise Science
+3,4 Electives
+Methods of Data Analysis,12
+HES 371,
+3,
+,HES 433
+Total Credits,3
+30,Professional Ethics in Health and Exercise Sciences
+Year 4,HES 493
+,6
+Knowledge Translation,
+HES 471,Total Credits
+3,30
+Community Practicum,
+6 Electives,HES 100
+18,3
+,Human Physiology I
+Year 1,HES 120
+,3
+Foundations of Health and Exercise Science,Social Determinants of Health
+HES 101,HES 102
+3,3
+Introduction to Human Anatomy,Exercise Physiology I
+HES 130,HES 111
+3,3
+Biomechanics,Exercise Psychology
+HES 105,ENGL XXX
+3,3
+Human Physiology II,
+HES 131,Total Credits
+3,30
+3 credits of 100-level English,
+Non-HES Elective,HES 200
+3,3
+,Exercise Counselling & Behaviour Modification
+Year 2,HES 202
+,3
+Introduction to Nutrition,Lifespan Development
+HES 201,HES 211
+3,3
+Motor Behaviour,"Exercise Training, Conditioning and Rehabilitation for Health, Fitness and Performance"
+HES 203,HES 231
+3,3
+Exercise Testing,Health Research Methods
+HES 212,HES 250
+3,3
+Exercise Counselling & Behaviour Modification,Pathophysiology
+HES 240,Total Credits
+3,30
+Clinical Assessment,
+HES 340,INDG 319
+3,3
+,Professional Practice in Health and Exercise Science
+Year 3,HES 351
+,3
+Indigenous Perspectives on Health and Physical Activity,Exercise Testing of Clinical Populations
+HES 371,HES 353
+3,3
+Clinical Exercise Physiology,Clinical Exercise Physiology Applications in Chronic Conditions: Cardiovascular Diseases
+HES 352,HES 355
+3,3
+Clinical Exercise Prescription,Health Behaviour Change for Chronic Disease Management
+HES 354,HES 493
+3,6
+Clinical Exercise Physiology Applications in Chronic Conditions: Endocrinology & Metabolic Disorders,
+HES 356,
+3,HES 471
+Community Practicum,3
+Total Credits,Clinical Exercise Physiology Applications in Chronic Conditions: Musculoskeletal and Neurological Diseases & Disorders
+30,HES 454
+Year 4,3
+,Clinical Exercise Physiology Applications in Chronic Conditions: Oncology
+Professional Ethics in Health and Exercise Sciences,HES 459
+HES 453,3
+3,Advanced Community Practicum
+Clinical Exercise Physiology Applications in Chronic Conditions: Respiratory Disease,Total Credits
+HES 455,30
+3,
+Clinical Exercise Physiology Advanced Practice,
+HES 494,
+15,
+,

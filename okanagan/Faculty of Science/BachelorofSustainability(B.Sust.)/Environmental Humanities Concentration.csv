@@ -1,42 +1,42 @@
-0,"                                                INFO   CREDIT
-0                                         First Year  Credits
-0                                           ENGL 112        3
-0                                           INDG 102        3
-0                                           SUST 100        3
-0                                           SUST 104        3
-0                                           ENGL 156        3
-0                                           GEOG 108        3
-0                                           HIST 106        3
-0                                           INDG 100        3
-0                                          Electives        6
-0                            Total Credits (minimum)       30
-0                                        Second Year  Credits
-0                                           SUST 201        3
-0                                           SUST 200        3
-0                                           SUST 202        1
-0                                           SUST 204        3
-0                                           SUST 205        3
-0  One of ANTH 245, ENG 234, ENGL 297, INDG 201, ...        3
-0                                           HIST 215        3
-0                                           INDG 202        3
-0                                          Electives        9
-0                            Total Credits (minimum)       31
-0                                         Third Year  Credits
-0                                           SUST 300        3
-0                                           SUST 301        3
-0                                           SUST 302        1
-0      One of CULT 317, ENGL 387, ENGL 388, ENGL 397        3
-0                One of GEOG 304, GEOG 318, GEOG 365        3
-0      One of HIST 300, HIST 301, HIST 309, HIST 395        3
-0                                           INDG 307        3
-0                                          Electives       12
-0                            Total Credits (minimum)       31
-0                                        Fourth Year  Credits
-0                                           SUST 400        6
-0                                           SUST 402        1
-0                One of ANTH 445, GEOG 423, INDG 420        3
-0                One of ENGL 457, ENGL 458, GWST 400        3
-0                                           PHIL 435        3
-0                                          Electives       15
-0                            Total Credits (minimum)       31
-0                    Overall Total Credits (minimum)      123"
+INFO,CREDIT
+First Year,Credits
+ENGL 112,3
+INDG 102,3
+SUST 100,3
+SUST 104,3
+ENGL 156,3
+GEOG 108,3
+HIST 106,3
+INDG 100,3
+Electives,6
+Total Credits (minimum),30
+Second Year,Credits
+SUST 201,3
+SUST 200,3
+SUST 202,1
+SUST 204,3
+SUST 205,3
+"One of ANTH 245, ENG 234, ENGL 297, INDG 201, INDG 203",3
+HIST 215,3
+INDG 202,3
+Electives,9
+Total Credits (minimum),31
+Third Year,Credits
+SUST 300,3
+SUST 301,3
+SUST 302,1
+"One of CULT 317, ENGL 387, ENGL 388, ENGL 397",3
+"One of GEOG 304, GEOG 318, GEOG 365",3
+"One of HIST 300, HIST 301, HIST 309, HIST 395",3
+INDG 307,3
+Electives,12
+Total Credits (minimum),31
+Fourth Year,Credits
+SUST 400,6
+SUST 402,1
+"One of ANTH 445, GEOG 423, INDG 420",3
+"One of ENGL 457, ENGL 458, GWST 400",3
+PHIL 435,3
+Electives,15
+Total Credits (minimum),31
+Overall Total Credits (minimum),123

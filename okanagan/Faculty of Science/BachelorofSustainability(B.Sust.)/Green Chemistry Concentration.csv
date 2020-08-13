@@ -1,44 +1,44 @@
-0,"                              INFO   CREDIT
-0                       First Year  Credits
-0                         ENGL 112        3
-0                         INDG 102        3
-0                         SUST 100        3
-0                         SUST 104        3
-0                         CHEM 121        3
-0                         CHEM 123        3
-0                         MATH 100        3
-0                         MATH 101        3
-0                         PHYS 111        3
-0                         PHYS 121        3
-0          Total Credits (minimum)       30
-0                      Second Year  Credits
-0                         BIOL 202        3
-0                         SUST 200        3
-0                         SUST 202        1
-0                         SUST 204        3
-0                         SUST 205        3
-0                         CHEM 201        3
-0                         CHEM 203        3
-0                         CHEM 204        3
-0                         CHEM 220        3
-0                        Electives        6
-0          Total Credits (minimum)       31
-0                       Third Year  Credits
-0                         SUST 300        3
-0                         SUST 301        3
-0                         SUST 302        1
-0                         CHEM 330        3
-0                         CHEM 336        3
-0                         CHEM 338        3
-0                       Electives2       15
-0          Total Credits (minimum)       31
-0                      Fourth Year  Credits
-0                         SUST 400        6
-0                         SUST 402        1
-0                         CHEM 333        3
-0                         CHEM 334        3
-0             CHEM 462 or CHEM 448        3
-0             CHEM 463 or CHEM 448        3
-0                        Electives       12
-0          Total Credits (minimum)       31
-0  Overall Total Credits (minimum)      123"
+INFO,CREDIT
+First Year,Credits
+ENGL 112,3
+INDG 102,3
+SUST 100,3
+SUST 104,3
+CHEM 121,3
+CHEM 123,3
+MATH 100,3
+MATH 101,3
+PHYS 111,3
+PHYS 121,3
+Total Credits (minimum),30
+Second Year,Credits
+BIOL 202,3
+SUST 200,3
+SUST 202,1
+SUST 204,3
+SUST 205,3
+CHEM 201,3
+CHEM 203,3
+CHEM 204,3
+CHEM 220,3
+Electives,6
+Total Credits (minimum),31
+Third Year,Credits
+SUST 300,3
+SUST 301,3
+SUST 302,1
+CHEM 330,3
+CHEM 336,3
+CHEM 338,3
+Electives2,15
+Total Credits (minimum),31
+Fourth Year,Credits
+SUST 400,6
+SUST 402,1
+CHEM 333,3
+CHEM 334,3
+CHEM 462 or CHEM 448,3
+CHEM 463 or CHEM 448,3
+Electives,12
+Total Credits (minimum),31
+Overall Total Credits (minimum),123

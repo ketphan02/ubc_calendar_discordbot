@@ -1,29 +1,29 @@
-0,"                                                INFO   CREDIT
-0                                         First Year  Credits
-0               CHEM 111 or 121; and CHEM 113 or 123        6
-0                                      MATH 100, 101        6
-0  ENGL 109, or two of ENGL 112, 113, 114, 150, 1...        6
-0                                    PHYS 111 or 112        3
-0                               PHYS 102, 121 or 122        3
-0                                      COSC 111, 121        6
-0                                      Total Credits       30
-0                                        Second Year         
-0                                     MATH 200, 2211        6
-0                                           STAT 230        3
-0                                      COSC 221, 222        6
-0                                     Arts electives        6
-0                                          Electives        9
-0                                      Total Credits       30
-0                             Third and Fourth Years         
-0                            COSC 304, 322, 360, 407       12
-0                                 DATA 301, 311, 410        9
-0                                           PHIL 331        3
-0                                           STAT 303        3
-0  Three of COSC 303, DATA 405, MATH 307, STAT 40...        9
-0                     One of DATA 421, 407, PHYS 420        3
-0  Two of BIOL 308, 414, 444, 460, 468, ECON 327,...        6
-0                                  Science electives        9
-0                                     Arts electives        3
-0                                          Electives        3
-0                                      Total Credits       60
-0                         Minimum credits for degree      120"
+INFO,CREDIT
+First Year,Credits
+CHEM 111 or 121; and CHEM 113 or 123,6
+"MATH 100, 101",6
+"ENGL 109, or two of ENGL 112, 113, 114, 150, 151, 153, 154, 155, or 156",6
+PHYS 111 or 112,3
+"PHYS 102, 121 or 122",3
+"COSC 111, 121",6
+Total Credits,30
+Second Year,
+"MATH 200, 2211",6
+STAT 230,3
+"COSC 221, 222",6
+Arts electives,6
+Electives,9
+Total Credits,30
+Third and Fourth Years,
+"COSC 304, 322, 360, 407",12
+"DATA 301, 311, 410",9
+PHIL 331,3
+STAT 303,3
+"Three of COSC 303, DATA 405, MATH 307, STAT 401, 403",9
+"One of DATA 421, 407, PHYS 420",3
+"Two of BIOL 308, 414, 444, 460, 468, ECON 327, 328, 427, EESC 342, 413, GISC 380, 381, PHYS 331, 441, PSYO 372, 443",6
+Science electives,9
+Arts electives,3
+Electives,3
+Total Credits,60
+Minimum credits for degree,120

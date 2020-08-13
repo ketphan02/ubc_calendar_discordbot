@@ -1,31 +1,31 @@
-0,"                                                INFO   CREDIT
-0                                         First Year  Credits
-0                                      MATH 100, 101        6
-0  6 credits from the following courses: BIOL 116...        6
-0                                    COSC 1111, 1212        6
-0                              DATA 101 or STAT 1213        3
-0  ENGL 109, or two of 112, 113, 114, 150, 151, 1...        6
-0                                          Electives        3
-0                                      Total Credits       30
-0                                        Second Year         
-0                           MATH 200, 220, 2214, 225       12
-0                                          STAT 2303        3
-0                                           COSC 221        3
-0                              Non-Science electives        6
-0                                          Electives        6
-0                                      Total Credits       30
-0                             Third and Fourth Years         
-0                       MATH 307, 311, 319, 327, 350       15
-0                                           STAT 303        3
-0  A student in this program may choose to specia...         
-0  General Program Upper-level Mathematics and St...       12
-0  Applied Mathematics Concentration2 Electives c...       12
-0  Data Science Concentration Electives chosen fr...       12
-0  Pure Mathematics Concentration2 Electives chos...       12
-0                      Upper-level Science electives        6
-0                              Upper-level electives        6
-0                                   Science elective        3
-0                              Non-Science electives        6
-0                                          Electives        9
-0                                      Total Credits       60
-0                         Minimum credits for degree      120"
+INFO,CREDIT
+First Year,Credits
+"MATH 100, 101",6
+"6 credits from the following courses: BIOL 116 or 117, 122 or 125, 131, 133; CHEM 111 or 121, 113 or 123; EESC 111, 121; PHYS 111 or 112, 121 or 122",6
+"COSC 1111, 1212",6
+DATA 101 or STAT 1213,3
+"ENGL 109, or two of 112, 113, 114, 150, 151, 153, 154, 155, or 156",6
+Electives,3
+Total Credits,30
+Second Year,
+"MATH 200, 220, 2214, 225",12
+STAT 2303,3
+COSC 221,3
+Non-Science electives,6
+Electives,6
+Total Credits,30
+Third and Fourth Years,
+"MATH 307, 311, 319, 327, 350",15
+STAT 303,3
+"A student in this program may choose to specialize further by completing a concentration in Applied Mathematics, Data Science, or Pure Mathematics, or may choose not to pursue a concentration. The student must choose upper-level electives as specified in one of the four options below.",
+General Program Upper-level Mathematics and Statistics electives. No more than 6 credits may be DATA/STAT courses.,12
+"Applied Mathematics Concentration2 Electives chosen from MATH 303, 317, 323, 339, 340, 409, 433, 441, 442, 459, 461, 462 or other approved electives in applied mathematics",12
+"Data Science Concentration Electives chosen from: DATA 301, 311, 407, 410, 421; STAT 401, 403, 406, 449, or other approved electives in statistics, data science, or computer science",12
+"Pure Mathematics Concentration2 Electives chosen from MATH 308, 312, 313, 328, 330, 408, 410, 411, 429, 443, 461, or other approved electives in pure mathematics",12
+Upper-level Science electives,6
+Upper-level electives,6
+Science elective,3
+Non-Science electives,6
+Electives,9
+Total Credits,60
+Minimum credits for degree,120

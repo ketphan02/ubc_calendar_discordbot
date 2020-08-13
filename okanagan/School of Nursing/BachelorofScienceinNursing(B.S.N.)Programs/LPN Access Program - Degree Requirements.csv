@@ -1,12 +1,12 @@
-0,"                                                INFO CREDIT
-0                                           Year One       
-0                                             Term I       
-0                                            Term II       
-0                                      Years 2, 3, 4       
-0                HINT 110 Applied Research in Health      3
-0         One of ENGL 112 or 114, 113, 150, 151, 153      3
-0            BIOL 131 Human Anatomy and Physiology I      3
-0          NRSG 120 Introduction to Nursing Research      3
-0                         NRSG 140 LPN Access to BSN      3
-0           BIOL 133 Human Anatomy and Physiology II      3
-0  Students then complete all second-, third-, an...       "
+INFO,CREDIT
+Year One,
+Term I,
+Term II,
+"Years 2, 3, 4",
+HINT 110 Applied Research in Health,3
+"One of ENGL 112 or 114, 113, 150, 151, 153",3
+BIOL 131 Human Anatomy and Physiology I,3
+NRSG 120 Introduction to Nursing Research,3
+NRSG 140 LPN Access to BSN,3
+BIOL 133 Human Anatomy and Physiology II,3
+"Students then complete all second-, third-, and fourth-year Basic BSN program degree requirements.",

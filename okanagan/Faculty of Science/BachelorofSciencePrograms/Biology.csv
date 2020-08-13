@@ -1,25 +1,25 @@
-0,"                                                INFO   CREDIT
-0                                         First Year  Credits
-0                                     BIOL 116, 1251        6
-0     CHEM 111 or CHEM 121; and CHEM 113 or CHEM 123        6
-0  ENGL 109, or two of ENGL 112, 113, 114, 150, 1...        6
-0                                     MATH 100, 1011        6
-0                                    PHYS 111 or 112        3
-0                               PHYS 102, 121 or 122        3
-0                                      Total credits       30
-0                                        Second Year         
-0                                      BIOL 200, 201        6
-0                                      BIOL 202, 265        6
-0                Two of BIOL 204, 205, 209, 210, 228        6
-0                   CHEM 203, 204; or CHEM 213, 2142        6
-0                                          Electives        6
-0                                      Total Credits       30
-0                             Third and Fourth Years         
-0                                           BIOL 311        3
-0                                           BIOL 354        3
-0           Biology electives numbered 300 or higher       24
-0           Science electives numbered 300 or higher        6
-0             Other electives numbered 300 or higher        6
-0     Electives to satisfy B.Sc. credit requirements       18
-0                                      Total Credits       60
-0                         Minimum credits for degree      120"
+INFO,CREDIT
+First Year,Credits
+"BIOL 116, 1251",6
+CHEM 111 or CHEM 121; and CHEM 113 or CHEM 123,6
+"ENGL 109, or two of ENGL 112, 113, 114, 150, 151, 153, 154, 155, or 156",6
+"MATH 100, 1011",6
+PHYS 111 or 112,3
+"PHYS 102, 121 or 122",3
+Total credits,30
+Second Year,
+"BIOL 200, 201",6
+"BIOL 202, 265",6
+"Two of BIOL 204, 205, 209, 210, 228",6
+"CHEM 203, 204; or CHEM 213, 2142",6
+Electives,6
+Total Credits,30
+Third and Fourth Years,
+BIOL 311,3
+BIOL 354,3
+Biology electives numbered 300 or higher,24
+Science electives numbered 300 or higher,6
+Other electives numbered 300 or higher,6
+Electives to satisfy B.Sc. credit requirements,18
+Total Credits,60
+Minimum credits for degree,120

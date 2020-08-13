@@ -4,6 +4,7 @@ import shutil
 import discord
 from dotenv import load_dotenv
 import crawl_visualize
+import pandas as pd
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
@@ -56,6 +57,16 @@ async def on_message(message):
             for i in range(len(directory)):
                 msg = msg + str(i + 1) + '. ' + directory[i].replace(".csv", "") + '\n'
             await channel.send(msg)
+            
+            usr_data = await client.wait_for('message')
+            msg = usr_data.content
+            msg = int(msg) - 1
+            path = path + directory[msg]
+            
+            # col_names = ["INFO", "CREDIT"]
+            data = pd.read_csv(path)
+            await channel.send(data)
+            print(data)
 
 
 client.run(TOKEN)
