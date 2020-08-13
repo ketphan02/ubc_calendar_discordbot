@@ -18,8 +18,44 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    if message.content.lower() == "calendar" and not message.author.bot:
+
+    path = './'
+    if message.author.bot:
+        return
+
+    if message.content.lower() == "/calendar":
         channel = message.channel
-        await channel.send("calendar")
+        await channel.send("What is your campus?\n1. Vancouver\n2. Okanagan")
+
+        usr_data = await client.wait_for('message')
+        msg = usr_data.content
+        if msg == '2':
+            path = path + 'okanagan/'
+            directory = os.listdir(path)
+            msg = "What is your Faculty?\n"
+            for i in range(len(directory)):
+                msg = msg + str(i + 1) + '. ' + directory[i] + '\n'
+            await channel.send(msg)
+
+            usr_data = await client.wait_for('message')
+            msg = usr_data.content
+            msg = int(msg) - 1
+            path = path + directory[msg] + '/'
+            directory = os.listdir(path)
+            msg = "What is your Program?\n"
+            for i in range(len(directory)):
+                msg = msg + str(i + 1) + '. ' + directory[i] + '\n'
+            await channel.send(msg)
+
+            usr_data = await client.wait_for('message')
+            msg = usr_data.content
+            msg = int(msg) - 1
+            path = path + directory[msg] + '/'
+            directory = os.listdir(path)
+            msg = "What is your Major?\n"
+            for i in range(len(directory)):
+                msg = msg + str(i + 1) + '. ' + directory[i].replace(".csv", "") + '\n'
+            await channel.send(msg)
+
 
 client.run(TOKEN)
