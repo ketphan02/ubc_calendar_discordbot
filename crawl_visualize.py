@@ -87,7 +87,7 @@ def pre_pre_prework(url, name):
     data = data.findAll("a", href=True)
     data = data[::2]
 
-    path = './' + name + '/'
+    path = './courses/' + name + '/'
 
     for i in range(len(data)):
         data[i] = url.replace(url.replace('http://www.calendar.ubc.ca/' + name + '/', ''), data[i]['href'])
@@ -99,8 +99,6 @@ def pre_pre_prework(url, name):
 
 def start():
     url = 'http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,0,0,0'
-    pre_pre_prework(url, 'vancouver')
+    pre_pre_prework(url, 'Vancouver')
     url = 'http://www.calendar.ubc.ca/okanagan/index.cfm?tree=18,0,0,0'
-    pre_pre_prework(url, 'okanagan')
-
-start()
+    pre_pre_prework(url, 'Okanagan')
